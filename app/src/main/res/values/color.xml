@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">@color/wallet_holo_blue_light</color>
+    <color name="colorPrimary">#77ceee</color>
+    <color name="colorPrimaryDark">@color/primary_dark_material_dark</color>
+    <color name="colorAccent">#e56333</color>
+    <!--<color name="colorPurple">#b366ff</color>-->
+    <color name="colorPurple">#607D8B</color>
+    <!--<color name="colorGreen">#66ff67</color>-->
+    <color name="colorGreen">#33e5bc</color>
+    <color name="orange">#e56333</color>
+    <color name="green">#77ee97</color>
+    <color name="blue">#77ceee</color>
+</resources>

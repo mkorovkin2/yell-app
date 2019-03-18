@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Prots/Documents/Development/java-library/android-lib/res/values/kinvey.xml -->
+    <eat-comment/>
+    <string name="kinvey_appkey">This_is_my_appkey</string>
+    <string name="kinvey_appsecret">this_is_my_appsecret</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/layout_all">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/title33"
+        android:textSize="20sp"
+        android:padding="12dp"
+        android:textColor="@color/colorBackground"
+        android:layout_marginTop="34dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:text="You're anonymously messaging people within a few miles of you.\n\nNote: messages only start getting pushed to your device upon opening the app and are cleared once the app is stopped."
+        />
+
+</RelativeLayout><!-- From: file:/Users/Michael/AndroidStudioProjects/YELL2/app/src/main/res/layout/dm_overlay.xml -->

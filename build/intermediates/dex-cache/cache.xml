@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-9081f4fb018e63a3145ff77b90b9eacce0e77ae6.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-59b40136be2089eaa2f3efdaf325bd12a1d4b397.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-906a87476546f307cc80bc98ee9022b4055ee781.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/gson-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/gson-2.1-c3063cf29919dd2375046971f4ea5c8765e9ff41.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-b59f076a1edeef8466a2e7aa2cebe01d180dfb0a.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-bd4557b24678e669177a1b6cdef239195618520c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-e659f079bc50903b8a537e2d02a0c725a916c0f4.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-c66d2f08e7ddc34407bf2f5d6650600a93458151.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-c54462a1601363eef1ceec7474503db53c970b6e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/google-http-client-android-1.19.0-86646b82be32017f9ba7115f9e7a165dae3d7129.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-94bc040074607e59d201cc286604ad48e49aa2b2.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/internal_impl-24.1.0-c0917ffb6baf67ace2d07a06fc8f719ef4416514.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-77f1800c833313161f201cbe0d3c4a85d92ef47f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-9cd112184f4496139ae05a6d5734d66a17fb763b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/jackson-core-2.1.3-aed54a02bc4aa854c947b1fc581674fd7fd9e61b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/google-http-client-gson-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b3cdefb990d5212bb2a130525b20e2c44aeffc4c">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/google-http-client-gson-1.19.0-ee22bf032b669f8257469f91fb91ffcefc545b74.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-5580eaa0c27f6e9b250a14edd59096ac9de3f494.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-ab8fad3156ed5edadaf17a0be3a0b7d43d441102.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.0/8a23146e1a8c7cb4758e3d3f62449213f1e51f67/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/support-annotations-24.1.0-ad57bfd6064713fb1741ce2c63a4fece634087fc.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-3185467970844c03ba0b0dc36c2a4bb33c696228.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-33bcfe14ea503ae97f56f9b6d5d10daf2aa4efcf.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/google-http-client-1.19.0-2f586fd3801fffd1f73466c106d33c622d0c057f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-d7e770dba0be2f8b08d66496196ea7256e258109.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/google-http-client-jackson2-1.19.0-9dadf63cbc1f00cc583d455956970abfc0bd1137.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/guava-18.0-322adedc35646fa2f4a4e5f753332e1e896e81f9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-bcfd8b63f667e35fcbd2c39574edaad9d5e801f5.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/kinvey-android-2.10.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5da04cfc546140f5c03008f0221cd5dcf169e8c3">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-85b66fc0efa2d780c801402ee8ca4ee9f2912387.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-acf58b21ef2feafae7bd5abc04fb18575cd38674.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-91bae17733bf55dc058da1f639924bd424d83933.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/design/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-86267e5db76459acf50d376e511a17f19c007b16.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-06a2ac6245b9c67ec565c5c34676db6b8f9b667f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-553cd95daa439d4148da969daf1c2c0220adfd74.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-3937b0036d988235bf72379c55be60cc2f2951e6.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-692f4f989524d9a854e3e60c28b9e69b62f36a73.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-34a73eb09ba52f7bcb50ba85faccba9d6b52a8dc.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/libs/java-api-core-2.10.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a59c9f196f5a0f5413606aa6d79cf98fd99cd74e">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/java-api-core-2.10.1-93fe0cb2a18082463506dcd7b3e8840641bcc14b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/Users/Michael/AndroidStudioProjects/YELL2/app/build/intermediates/pre-dexed/release/classes-52fc42842bc9caaa73787f0b53bfc6d74aa4a0eb.jar/classes.dex" />
+    </item>
+
+</items>
